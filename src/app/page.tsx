@@ -14,7 +14,7 @@ export default function Home() {
             {/* Logo */}
             <div className="flex items-center">
               <img
-                src="/images/3102230825.png"
+                src="https://ext.same-assets.com/1468024504/3102230825.png"
                 alt="China Highlights"
                 className="h-8 w-auto"
               />
@@ -48,7 +48,7 @@ export default function Home() {
       </header>
 
       {/* Hero Section */}
-      <section className="relative h-[500px] bg-cover bg-center" style={{backgroundImage: 'url(/images/2201032898.webp)'}}>
+      <section className="relative h-[500px] bg-cover bg-center" style={{backgroundImage: 'url(https://ext.same-assets.com/1468024504/2201032898.webp)'}}>
         <div className="absolute inset-0 bg-black bg-opacity-30" />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center">
           <div className="text-white max-w-2xl">
@@ -63,7 +63,7 @@ export default function Home() {
               and Best-Rated Private Tours
             </p>
             <div className="flex items-center space-x-4">
-              <img src="/images/2214021320.png" alt="Awards" className="h-16" />
+              <img src="https://ext.same-assets.com/1468024504/2214021320.png" alt="Awards" className="h-16" />
             </div>
           </div>
         </div>
@@ -86,7 +86,7 @@ export default function Home() {
           </div>
 
           {/* Company Awards */}
-          <img src="/images/1644357088.webp" alt="Company Awards" className="mb-8" />
+          <img src="https://ext.same-assets.com/1468024504/1644357088.webp" alt="Company Awards" className="mb-8" />
 
           {/* CTA Button */}
           <div className="bg-red-600 text-white inline-flex items-center px-6 py-3 rounded-lg hover:bg-red-700 transition-colors cursor-pointer">
@@ -132,22 +132,22 @@ export default function Home() {
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
             {[
               {
-                image: "/images/647670242.webp",
+                image: "https://ext.same-assets.com/1468024504/647670242.webp",
                 title: "11-Day China Classic Tour",
                 description: "Beijing, Xi'an, Guilin, and Shanghai"
               },
               {
-                image: "/images/3974814036.webp",
+                image: "https://ext.same-assets.com/1468024504/3974814036.webp",
                 title: "14-Day China Natural Wonders Discovery",
                 description: "Beijing, Xi'an, Zhangjiajie, Guilin, and Shanghai"
               },
               {
-                image: "/images/334874818.webp",
+                image: "https://ext.same-assets.com/1468024504/334874818.webp",
                 title: "3-Week Must-See Places China Tour Including Holy Tibet",
                 description: "Beijing, Xi'an, Lhasa, Chengdu, Zhangjiajie, Guilin, and Shanghai"
               },
               {
-                image: "/images/1813096156.webp",
+                image: "https://ext.same-assets.com/1468024504/1813096156.webp",
                 title: "21-Day China Tour with Silk Road",
                 description: "Beijing, Xi'an, Zhangye, Dunhuang, Turpan, Urumqi, Kashgar, Chengdu, Zhangjiajie, and Shanghai"
               }
@@ -181,7 +181,7 @@ export default function Home() {
           </p>
 
           <div className="flex justify-center mb-8">
-            <img src="/images/3297897195.png" alt="TripAdvisor Certificate" className="h-24" />
+            <img src="https://ext.same-assets.com/1468024504/3297897195.png" alt="TripAdvisor Certificate" className="h-24" />
           </div>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -227,14 +227,14 @@ export default function Home() {
 
           <div className="grid md:grid-cols-4 gap-4 mb-8">
             {[
-              { name: "Beijing", image: "/images/3350297971.webp" },
-              { name: "Xi'an", image: "/images/1468737725.webp" },
-              { name: "Guilin", image: "/images/2371170294.webp" },
-              { name: "Shanghai", image: "/images/2804041830.webp" },
-              { name: "Zhangjiajie", image: "/images/2358527132.webp" },
-              { name: "Chengdu", image: "/images/2330585003.webp" },
-              { name: "Silk Road", image: "/images/3456043610.webp" },
-              { name: "Tibet", image: "/images/2549780317.webp" }
+              { name: "Beijing", image: "https://ext.same-assets.com/1468024504/3350297971.webp" },
+              { name: "Xi'an", image: "https://ext.same-assets.com/1468024504/1468737725.webp" },
+              { name: "Guilin", image: "https://ext.same-assets.com/1468024504/2371170294.webp" },
+              { name: "Shanghai", image: "https://ext.same-assets.com/1468024504/2804041830.webp" },
+              { name: "Zhangjiajie", image: "https://ext.same-assets.com/1468024504/2358527132.webp" },
+              { name: "Chengdu", image: "https://ext.same-assets.com/1468024504/2330585003.webp" },
+              { name: "Silk Road", image: "https://ext.same-assets.com/1468024504/3456043610.webp" },
+              { name: "Tibet", image: "https://ext.same-assets.com/1468024504/2549780317.webp" }
             ].map((destination) => (
               <div key={destination.name} className="relative group cursor-pointer">
                 <div className="relative h-48 rounded-lg overflow-hidden">
@@ -262,19 +262,19 @@ export default function Home() {
           <div className="grid md:grid-cols-4 gap-6 mb-8">
             {[
               {
-                image: "/images/1412335646.webp",
+                image: "https://ext.same-assets.com/1468024504/1412335646.webp",
                 title: "How to Plan Your Family Trip to China"
               },
               {
-                image: "/images/346712668.webp",
+                image: "https://ext.same-assets.com/1468024504/346712668.webp",
                 title: "How to Plan a First Trip to China"
               },
               {
-                image: "/images/226668553.webp",
+                image: "https://ext.same-assets.com/1468024504/226668553.webp",
                 title: "Top 30 Most Beautiful Places in China"
               },
               {
-                image: "/images/3085924058.webp",
+                image: "https://ext.same-assets.com/1468024504/3085924058.webp",
                 title: "How to Plan a Panda Tour"
               }
             ].map((guide) => (
@@ -309,7 +309,7 @@ export default function Home() {
       </main>
 
       {/* Newsletter Section */}
-      <section className="relative h-96 bg-cover bg-center" style={{backgroundImage: 'url(/images/902388688.webp)'}}>
+      <section className="relative h-96 bg-cover bg-center" style={{backgroundImage: 'url(https://ext.same-assets.com/1468024504/902388688.webp)'}}>
         <div className="absolute inset-0 bg-black bg-opacity-50" />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center justify-center">
           <div className="text-white text-center">
@@ -442,7 +442,7 @@ export default function Home() {
           <div className="border-t border-gray-700 pt-8">
             <div className="flex flex-col md:flex-row items-center justify-between">
               <div className="flex items-center mb-4 md:mb-0">
-                <img src="/images/1194369989.png" alt="China Highlights" className="h-8 mr-4" />
+                <img src="https://ext.same-assets.com/1468024504/1194369989.png" alt="China Highlights" className="h-8 mr-4" />
                 <div className="text-sm">
                   <p>China Highlights International</p>
                   <p>Travel Service Co., LTD</p>
@@ -456,7 +456,7 @@ export default function Home() {
             <div className="mt-8">
               <p className="text-sm text-gray-400 mb-4">Address: Building 6, Chuangyi Business Park, 70 Qilidian Road, Guilin, Guangxi, 541004, China</p>
               <div className="flex flex-wrap items-center justify-center space-x-4">
-                <img src="/images/1361079284.png" alt="Featured on" className="h-8" />
+                <img src="https://ext.same-assets.com/1468024504/1361079284.png" alt="Featured on" className="h-8" />
               </div>
             </div>
           </div>
